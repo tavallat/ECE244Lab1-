@@ -1,12 +1,3 @@
-
-/*
- this is the final file
- 
- * File:  parser
- 
- */
-
-
 #include <cstdlib>
 
 #include <iostream>

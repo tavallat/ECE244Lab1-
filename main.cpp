@@ -4,9 +4,6 @@
  
  * File:  parser
  
- * Author: tavalla2
- * student #: 1003363022
- 
  */
 
 
